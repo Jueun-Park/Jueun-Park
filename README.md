@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Jueun-Park/Jueun-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I'm Ju-eun Park (박주은).
+- 💻 I’m currently working on LINE+.
+- 🌱 I’m currently learning MLOps.
+- 🏸 Fun fact: I like playing badminton.
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ju-eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueun-park&show_icons=true&theme=solarized-light)
+
+### Keywords
+
+#### Current
+
+`MLOps`, `Go`, `Python`, `Docker`, `Kubernetes`, `Helm`, `Solarized light theme`
+
+#### Past
+
+`Autonomous Car`, `Reinforcement Learning`, `Federated Learning`
